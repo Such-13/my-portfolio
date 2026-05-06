@@ -3,7 +3,7 @@
 This is my official portfolio website. It serves as a central hub to showcase my web development projects, technical skills, and professional journey.
 
 ### 🔗 Live Demo
-Check out the live site here: [**Replace with your GitHub Pages URL**]
+Check out the live site here:  https://such-13.github.io/my-portfolio/
 
 ---
 
